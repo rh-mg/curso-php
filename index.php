@@ -103,7 +103,7 @@
 
    </main>
    <footer class="rodape">
-       Rhamon estudo © 2022
+       Rhamon estudo © <?= date('Y'); ?>
    </footer>
 </body>
 </html>
